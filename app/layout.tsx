@@ -81,6 +81,15 @@ export default function RootLayout({
           strategy="afterInteractive"
           src="//pl27435472.effectivegatecpm.com/14/3d/b2/143db2284788b1910ee6430fc3a0b122.js"
         />
+
+        {/* ✅ Adsterra Native Banner */}
+        <div id="container-0916c5348cd991833072cf90057a1629"></div>
+        <Script
+          async
+          data-cfasync="false"
+          src="//pl27435466.effectivegatecpm.com/0916c5348cd991833072cf90057a1629/invoke.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   )
