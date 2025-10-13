@@ -76,6 +76,11 @@ export default function RootLayout({
           {children}
           <Analytics />
         </Suspense>
+        {/* ✅ Adsterra Social Bar */}
+        <Script
+          strategy="afterInteractive"
+          src="//pl27435472.effectivegatecpm.com/14/3d/b2/143db2284788b1910ee6430fc3a0b122.js"
+        />
       </body>
     </html>
   )
