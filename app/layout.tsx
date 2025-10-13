@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: "Hola Lab Art | Free Stock Images & High-Quality Image Downloads",
     description:
       "Discover thousands of free, high-quality stock images at Hola Lab Art. Download stunning photos, illustrations, and digital art for personal or commercial use.",
-    url: "https://hola-lab-art.vercel.app",
+    url: "https://holalabs.art/",
     siteName: "Hola Lab Art",
     images: [
       {
@@ -68,7 +68,7 @@ export default function RootLayout({
         {/* ✅ Adsterra Popunder */}
         <Script
           strategy="beforeInteractive"
-          src="//pl27435313.effectivegatecpm.com/c7/62/77/c76277231fa2b4df9f3c8c84977a5b48.js"
+          src="//pl27434648.effectivegatecpm.com/e6/20/d0/e620d01a5d7b30b6156b3ec43f32e78d.js"
         />
       </head>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
@@ -79,15 +79,15 @@ export default function RootLayout({
         {/* ✅ Adsterra Social Bar */}
         <Script
           strategy="afterInteractive"
-          src="//pl27435472.effectivegatecpm.com/14/3d/b2/143db2284788b1910ee6430fc3a0b122.js"
+          src="//pl27434727.effectivegatecpm.com/9b/38/bd/9b38bdf9225a49931dc88949465134fe.js"
         />
 
         {/* ✅ Adsterra Native Banner */}
-        <div id="container-0916c5348cd991833072cf90057a1629"></div>
+        <div id="container-1ece01a69a59eef2233403d85001ab28"></div>
         <Script
           async
           data-cfasync="false"
-          src="//pl27435466.effectivegatecpm.com/0916c5348cd991833072cf90057a1629/invoke.js"
+          src="//pl27434699.effectivegatecpm.com/1ece01a69a59eef2233403d85001ab28/invoke.js"
           strategy="afterInteractive"
         />
       </body>
