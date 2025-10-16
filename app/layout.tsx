@@ -68,7 +68,7 @@ export default function RootLayout({
         {/* ✅ Adsterra Popunder */}
         <Script
           strategy="beforeInteractive"
-          src='//porchadvertise.com/e6/20/d0/e620d01a5d7b30b6156b3ec43f32e78d.js"
+          src="//porchadvertise.com/e6/20/d0/e620d01a5d7b30b6156b3ec43f32e78d.js"
         />
       </head>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
